@@ -1,6 +1,4 @@
-**基于SSM的后台管理系统：EasyBMS**			
-
-> **个人博客：**[https://www.xmlvhy.com](https://www.xmlvhy.com "https://www.xmlvhy.com")，Java技术交流，技术分享以及经验总结和资源分享。欢迎来访~
+**基于SSM的后台管理系统：EasyBMS**
 
 ##### 一、介绍
 
